@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Deepak Kumar 🍃</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Cloud+%2B+AI+Explorer;Passionate+about+building+real+projects+%26+clean+code;Python+%7C+JavaScript+Java+%7+%7C+%7C+C%2B%2B+%7C+SQL;React+%7C+Node.js+%7C+%7C+Express+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Cloud+%2B+AI+Explorer;Passionate+about+building+real+projects+%26+clean+code;Python+%7C+JavaScript+%7C+Java+%7C+C%2B%2B+%7C+SQL;React+%7C+Node.js+%7C+Express+%7C+Next.js" alt="Typing SVG" />
 </p>
+
 
 ---
 ### 🚀 About Me
