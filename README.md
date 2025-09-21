@@ -6,16 +6,39 @@
 
 
 ---
-### 🚀 About Me
+<h2 align="center" style="font-size:28px; color:#0f172a;">👨‍💻 About Me</h2>
 
-- 🎓 B.Tech CSE student | Passionate about solving real-world problems with code  
-- 🧠 Always learning — currently exploring:
-  - Full Stack Web Development (Frontend + Backend)
-  - Data Science fundamentals (Python, Math, Machine Learning)
-  - Cloud platforms & SaaS-based architectures
-- 🛠️ I love building complete systems: UI, backend, DB, auth, deploy, automate!
+<p align="center" style="font-size:16px; color:#334155; line-height:1.6;">
+  Hi, I'm <b style="color:#0ea5e9;">Deepak Kumar</b> 🚀 <br/>
+  A passionate <b style="color:#0ea5e9;">Backend Developer</b> & <b style="color:#0ea5e9;">AI/ML Enthusiast</b>, 
+  currently pursuing <b style="color:#0ea5e9;">B.Tech in Computer Science & Engineering</b>.  
+  I love building <b style="color:#0ea5e9;">scalable applications</b>, exploring <b style="color:#0ea5e9;">data-driven solutions</b>, 
+  and experimenting with <b style="color:#0ea5e9;">emerging technologies</b>.  
+</p>
 
----
+<hr style="border:1px solid #e2e8f0; margin:20px 0;"/>
+
+<h3 style="color:#0f172a;">🌟 What I Do</h3>
+<ul style="color:#1e293b; font-size:15px; line-height:1.8;">
+  <li>🔧 Build backend systems with <b style="color:#0ea5e9;">Node.js, Express, Nextjs</b></li>
+  <li>📊 Explore <b style="color:#0ea5e9;">Data Science, Machine Learning, and AI projects</b></li>
+  <li>☁️ Learn & implement <b style="color:#0ea5e9;">Cloud Computing</b> for scalability</li>
+  <li>🎨 Occasionally design UIs with <b style="color:#0ea5e9;">React + Tailwind CSS</b></li>
+</ul>
+
+<hr style="border:1px solid #e2e8f0; margin:20px 0;"/>
+
+<p align="center">
+  🛠️ I love building complete systems
+  UI • Backend • Database • Authentication • Deployment • Automation 🚀
+</p>
+
+<p align="center">
+  👉 Find all my repositories on <a href="https://github.com/deep-45deepak?tab=repositories"><b>GitHub</b></a>
+</p>
+
+<hr style="border:1px solid #e2e8f0; margin:20px 0;"/>
+
 
 <h2 align="center">TECH CLOUD ☁️</h2>
 
@@ -73,11 +96,20 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://x.com/dpk45deepak"><strong>X (Twitter)</strong></a> •
-  <a href="https://github.com/deep-45deepak"><strong>GitHub</strong></a> •
-  <a href="https://www.linkedin.com/in/deepak-kumar-15690b323/"><strong>LinkedIn</strong></a> •
-  <a href="https://dpkk.netlify.app/"><strong>Portfolio</strong></a>
+  <a href="https://x.com/dpk45deepak">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/dpk45deepak">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepak-kumar-15690b323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dpk45.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
+
 
 → *Find all repositories on [GitHub](https://github.com/deep-45deepak?tab=repositories)*
 
