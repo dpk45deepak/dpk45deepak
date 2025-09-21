@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  👉 Find all my repositories on <a href="https://github.com/deep-45deepak?tab=repositories"><b>GitHub</b></a>
+  👉 Find all my repositories on <a href="https://github.com/dpk45deepak?tab=repositories"><b>GitHub</b></a>
 </p>
 
 <hr style="border:1px solid #e2e8f0; margin:20px 0;"/>
@@ -111,7 +111,7 @@
 </p>
 
 
-→ *Find all repositories on [GitHub](https://github.com/deep-45deepak?tab=repositories)*
+→ *Find all repositories on [GitHub](https://github.com/dpk45deepak?tab=repositories)*
 
 ---
 
