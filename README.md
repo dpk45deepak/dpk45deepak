@@ -1,120 +1,163 @@
-<h1 align="center">Hey there, I'm Deepak Kumar 🍃</h1>
-
+<!-- 🌟 Profile README for Deepak Kumar -->
+<h1 align="center">✨ Hey there, I'm <a href="https://github.com/dpk45deepak">Deepak Kumar</a> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Cloud+%2B+AI+Explorer;Passionate+about+building+real+projects+%26+clean+code;Python+%7C+JavaScript+%7C+Java+%7C+C%2B%2B+%7C+SQL;React+%7C+Node.js+%7C+Express+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer🍃;Exploring+%26+Data+Science;Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" />
 </p>
 
+
+### 🧭 Quick Overview
+> 🚀 **Full Stack Developer | Exploring Data Science | Open Source Enthusiast**
+
+I’m **Deepak Kumar**, a developer passionate about designing **intelligent, scalable, and user-focused systems**.  
+Currently pursuing **B.Tech in Computer Science**, I love solving complex problems and contributing to impactful projects.
+
+💻 Building with:
+>- **Node.js**, **Express**, **React**, **MongoDB**, **Next.js**,
+>- Frequently used BAAS **Firebase**,**Supabase**, and **Appwrite**
+>- Learning **Machine Learning + System Design + Scalable Architectures**
+>- 🧠 *Lifelong Learner | Open to Contribute | Clean Coder*
+
+
+<details open>
+<summary>🏠 <b>Profile Snapshot</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=github_dark" />
+</p>
+</details>
 
 ---
-<h2 align="center" style="font-size:28px; color:#0f172a;">👨‍💻 About Me</h2>
+<!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
 
-<p align="center" style="font-size:16px; color:#334155; line-height:1.6;">
-  Hi, I'm <b style="color:#0ea5e9;">Deepak Kumar</b> 🚀 <br/>
-  A passionate <b style="color:#0ea5e9;">Backend Developer</b> & <b style="color:#0ea5e9;">AI/ML Enthusiast</b>, 
-  currently pursuing <b style="color:#0ea5e9;">B.Tech in Computer Science & Engineering</b>.  
-  I love building <b style="color:#0ea5e9;">scalable applications</b>, exploring <b style="color:#0ea5e9;">data-driven solutions</b>, 
-  and experimenting with <b style="color:#0ea5e9;">emerging technologies</b>.  
-</p>
+#### ✅ **Languages USED**
+`JavaScript` • `TypeScript` • `Python` • `Java` • `C/C++`
 
-<hr style="border:1px solid #e2e8f0; margin:20px 0;"/>
+<details>
+<summary>⚙️ <b>Tech Stack</b></summary>
+<br>
 
-<h3 style="color:#0f172a;">🌟 What I Do</h3>
-<ul style="color:#1e293b; font-size:15px; line-height:1.8;">
-  <li>🔧 Build backend systems with <b style="color:#0ea5e9;">Node.js, Express, Nextjs</b></li>
-  <li>📊 Explore <b style="color:#0ea5e9;">Data Science, Machine Learning, and AI projects</b></li>
-  <li>☁️ Learn & implement <b style="color:#0ea5e9;">Cloud Computing</b> for scalability</li>
-  <li>🎨 Occasionally design UIs with <b style="color:#0ea5e9;">React + Tailwind CSS</b></li>
-</ul>
+<div align="center">
 
-<hr style="border:1px solid #e2e8f0; margin:20px 0;"/>
+<table align="center" width="100%">
+<tr>
 
+
+<!-- 🧩 DEVELOPMENT BOX -->
+<td width="50%" valign="top">
+
+<h3 align="center">💻 <b>Development Stack</b></h3>
+
+#### 📊 **Core Languages**
+`JavaScript` • `TypeScript`
+
+#### 🎨 **Frontend**
+`HTML5` • `CSS3` • `TailwindCSS` • `React` • `Next.js`
+
+#### ⚙️ **Backend**
+`Node.js` • `Express.js` • `REST APIs`  `GRAPH-QL` • `Fastify (for fun)`
+
+#### ☁️ **BAAS & Dev Tools**
+`Firebase` • `Appwrite` • `Render` • `Vercel` • `GitHub` • `Postman` • `VS Code`
+
+<br>
 <p align="center">
-  🛠️ I love building complete systems
-  UI • Backend • Database • Authentication • Deployment • Automation 🚀
-</p>
-
-<p align="center">
-  👉 Find all my repositories on <a href="https://github.com/dpk45deepak?tab=repositories"><b>GitHub</b></a>
-</p>
-
-<hr style="border:1px solid #e2e8f0; margin:20px 0;"/>
-
-
-<h2 align="center">TECH CLOUD ☁️</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-NeonDB-black?style=for-the-badge&logo=data:image/svg+xml;base64," />
-  <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logo=appwrite" />
+  <img src="https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render" />
+  <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode" />
 </p>
 
- 💻 Languages  
-`JavaScript` `Python` `Java` `C/C++` `SQL`
+</td>
 
- 🎨 Frontend  
-`HTML5` `CSS3` `Tailwind CSS` `JavaScript (ES6+)` `React.js` `Next.js`
+<!-- 🤖 DATA SCIENCE BOX -->
+<td width="50%" valign="top">
 
- ⚙️ Backend  
-`Node.js` `Express.js` `Fastify (learning)` `Next.js` `REST APIs`
+<h3 align="center">🧪 <b>Data Science & AI Stack</b></h3>
 
- 🤖 AI/ML Toolkit (Basics)  
-`NumPy` `Pandas` `Matplotlib` `Seaborn`  
+#### 📊 **Core Languages**
+`Python` • `SQL`
 
- 🗄️ Databases  
-`MongoDB` `PostgreSQL` `Firebase Realtime DB` `NeonDB`  
-`Prisma ORM` *(learning)*
+#### 🧩 **Libraries & Frameworks**
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `TensorFlow` (exploring)
 
- ☁️ BAAS & Dev Tools  
-`Firebase` `Appwrite` `Render` `Vercel`  
-`Git & GitHub` `Postman` `VS Code` `Chrome DevTools`
+#### 🗄️ **Databases**
+`PostgreSQL` • `MongoDB` • `NeonDB` • `Firebase`
 
----
+#### ☁️ **Tools & Platforms**
+`Google Colab` • `Jupyter` • `Kaggle` • `BigQuery` • `GitHub` • `VS Code`
 
-## 📚 Learning Path
-
-- ✅ **Full Stack Dev** – Completed Hitesh Choudhary’s course  
-- ⏳ **Maths for Data Science** – 20% through Krish Naik’s course  
-- 📈 Continuously learning from documentation, docs, and building real apps  
-
----
-
-## 🌐 Let's Connect
-
+<br>
 <p align="center">
-  <a href="https://x.com/dpk45deepak">
-    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/dpk45deepak">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/deepak-kumar-15690b323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dpk45.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge&logo=plotly" />
+  <img src="https://img.shields.io/badge/-Seaborn-black?style=for-the-badge&logo=seaborn" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-black?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-black?style=for-the-badge&logo=googlecolab" />
+  <img src="https://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/-BigQuery-black?style=for-the-badge&logo=googlebigquery" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />
 </p>
 
+</td>
+</tr>
+</table>
 
-→ *Find all repositories on [GitHub](https://github.com/dpk45deepak?tab=repositories)*
+</div>
+
+</details>
 
 ---
 
+<details open><summary>🌍 <b>Deep Dive into Code, Cloud & Data</b></summary>
+<br>
+
+>  ⚙️ Full-Stack Web Development (React · Node.js · Express · MongoDB)
+
+> ☁️ Cloud Computing & Deployment Pipelines (AWS · Render · Docker · CI/CD)
+
+> 📊 Data Science & Machine Learning (Python · Pandas · Scikit-Learn · TensorFlow)
+
+> 🏗️ System Design & Scalable Architectures
+<!--
+> 🧠 AI-Powered Assistants & Automation with LLMs
+> 🧩 GraphQL APIs & Microservices for smarter integrations
+> 💡 Contributing to Open-Source and building impactful projects
+-->
+</details>
+
+---
+
+<details> <summary>✨ <b>Let’s Create Something Extraordinary Together</b></summary> <br> <p align="center"> 💡 I’m always open to connecting with ambitious minds, creators, and developers who love to innovate. Let’s collaborate on ideas, share experiences, and build something that truly makes a difference 🌍 </p>
+<p align="center"> <a href="https://linkedin.com/in/dpk45deepak"> <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://x.com/dpk45deepak"> <img src="https://img.shields.io/badge/🐦_Chat_on_X_(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:dpk45deepak@gmail.com"> <img src="https://img.shields.io/badge/📧_Say_Hi_via_Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<div align="center">
+🌌 Keep coding. Keep dreaming. Keep pushing boundaries —
+the best creations are yet to come. 💻💙
+</div>
+
+</details>
+
+---
+
+<h4 align="center">💙✨ "Turning data into decisions — and dreams into reality." ✨💙</h4>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=00FFFF&center=true&vCenter=true&&width=650&lines=Let's+code,+collab+and+grow+together!;Keep+learning.+Keep+building.+%F0%9F%9A%80" alt="Motivation Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=dpk45deepak&style=flat-square&color=1DA1F2" alt="profile views"/>
 </p>
