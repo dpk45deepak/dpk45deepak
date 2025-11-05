@@ -11,7 +11,7 @@
 I’m **Deepak Kumar**, a developer passionate about designing **intelligent, scalable, and user-focused systems**.  
 Currently pursuing **B.Tech in Computer Science**, I love solving complex problems and contributing to impactful projects.
 
-⛓️‍💥🛡️ Building with:
+🛡️ Building with:
 >- **Node.js**, **Express**, **React**, **MongoDB**, **Next.js**,
 >- Frequently used BAAS **Firebase**,**Supabase**, and **Appwrite**
 >- Learning **Machine Learning + System Design + Scalable Architectures**
@@ -22,7 +22,7 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 <summary>🏠 <b>Profile Snapshot</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=transparent" />
 </p>
 </details>
 
