@@ -6,12 +6,12 @@
 
 
 ### 🧭 Quick Overview
-> 🚀 **Full Stack Developer | Exploring Data Science | Open Source Enthusiast**
+> **Full Stack Developer | Exploring Data Science | Open Source Enthusiast**
 
 I’m **Deepak Kumar**, a developer passionate about designing **intelligent, scalable, and user-focused systems**.  
 Currently pursuing **B.Tech in Computer Science**, I love solving complex problems and contributing to impactful projects.
 
-💻 Building with:
+⛓️‍💥🛡️ Building with:
 >- **Node.js**, **Express**, **React**, **MongoDB**, **Next.js**,
 >- Frequently used BAAS **Firebase**,**Supabase**, and **Appwrite**
 >- Learning **Machine Learning + System Design + Scalable Architectures**
@@ -126,7 +126,7 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 
 ---
 
-<details open><summary>🌍 <b>Deep Dive into Code, Cloud & Data</b></summary>
+<details><summary>🌍 <b>Deep Dive into Code, Cloud & Data</b></summary>
 <br>
 
 >  ⚙️ Full-Stack Web Development (React · Node.js · Express · MongoDB)
