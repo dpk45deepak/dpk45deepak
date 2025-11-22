@@ -1,9 +1,31 @@
 <!-- 🌟 Profile README for Deepak Kumar -->
-<h1 align="center">✨ Hey there, I'm <a href="https://github.com/dpk45deepak">Deepak Kumar</a> 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer🍃;Exploring+%26+Data+Science;Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" />
-</p>
+<h1 align="left" style="
+  font-family: 'Poppins', sans-serif; 
+  font-size: 3rem; 
+  font-weight: 700;
+  background: linear-gradient(90deg, #ff007a, #7f00ff, #00d4ff);
+  -webkit-background-clip: text;
+  color: transparent;
+  margin-bottom: 10px;
+">
+  Hey ! I'm 
+  <a href="https://dpk45deepak.vercel.app" target="_blank"
+     style="
+       color: #ff007a; 
+       font-weight: 700; 
+       text-decoration: none;
+       transition: all 0.3s ease;
+     "
+  >
+     Deepak Kumar <span style="font-size: 2.2rem;">( dpk45deepak ) 🍃</span>
+  </a>
+</h1>
 
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FFFF&center=false&vCenter=true&width=700&lines=Full+Stack+Developer🍃;Exploring+Data+Science🍃;Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" 
+  />
+</p>
 
 ### 🧭 Quick Overview
 > **Full Stack Developer | Exploring Data Science | Open Source Enthusiast**
@@ -18,132 +40,89 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 >- 🧠 *Lifelong Learner | Open to Contribute | Clean Coder*
 
 
-<details open>
-<summary>🏠 <b>Profile Snapshot</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=transparent" />
-</p>
-</details>
-
----
 <!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
 
 #### ✅ **Languages USED**
-`JavaScript` • `TypeScript` • `Python` • `Java` • `C/C++`
+`JavaScript` • `TypeScript` • `Python` • `Java`
+
+---
+<details>
+<summary>🏠 <b>Profile Snapshot</b></summary>
+<br>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=nord_dark" />
+</p>
+</details>
 
 <details>
 <summary>⚙️ <b>Tech Stack</b></summary>
 <br>
 
 <div align="center">
+<br/><br/>
 
-<table align="center" width="100%">
-<tr>
-
-
-<!-- 🧩 DEVELOPMENT BOX -->
-<td width="50%" valign="top">
-
-<h3 align="center">💻 <b>Development Stack</b></h3>
-
-#### 📊 **Core Languages**
-`JavaScript` • `TypeScript`
-
-#### 🎨 **Frontend**
-`HTML5` • `CSS3` • `TailwindCSS` • `React` • `Next.js`
-
-#### ⚙️ **Backend**
-`Node.js` • `Express.js` • `REST APIs`  `GRAPH-QL` • `Fastify (for fun)`
-
-#### ☁️ **BAAS & Dev Tools**
-`Firebase` • `Appwrite` • `Render` • `Vercel` • `GitHub` • `Postman` • `VS Code`
-
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logo=appwrite" />
-  <img src="https://img.shields.io/badge/-Render-black?style=for-the-badge&logo=render" />
-  <img src="https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode" />
+<!-- ================= DEVELOPMENT ================= -->
+### 💻 Full-Stack Development  
+<p>
+  <img src="https://img.shields.io/badge/JS-000?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/TS-000?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/Node-000?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql" />
+  <img src="https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify" />
 </p>
 
-</td>
+<br/>
 
-<!-- 🤖 DATA SCIENCE BOX -->
-<td width="50%" valign="top">
-
-<h3 align="center">🧪 <b>Data Science & AI Stack</b></h3>
-
-#### 📊 **Core Languages**
-`Python` • `SQL`
-
-#### 🧩 **Libraries & Frameworks**
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `TensorFlow` (exploring)
-
-#### 🗄️ **Databases**
-`PostgreSQL` • `MongoDB` • `NeonDB` • `Firebase`
-
-#### ☁️ **Tools & Platforms**
-`Google Colab` • `Jupyter` • `Kaggle` • `BigQuery` • `GitHub` • `VS Code`
-
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge&logo=plotly" />
-  <img src="https://img.shields.io/badge/-Seaborn-black?style=for-the-badge&logo=seaborn" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-black?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-black?style=for-the-badge&logo=googlecolab" />
-  <img src="https://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle" />
-  <img src="https://img.shields.io/badge/-BigQuery-black?style=for-the-badge&logo=googlebigquery" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" />
+<!-- ================= AI / ML ================= -->
+### 🤖 Data Science & AI  
+<p>
+  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-000?style=flat&logo=plotly" />
+  <img src="https://img.shields.io/badge/Seaborn-000?style=flat&logo=seaborn" />
+  <img src="https://img.shields.io/badge/Sklearn-000?style=flat&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter" />
+  <img src="https://img.shields.io/badge/Kaggle-000?style=flat&logo=kaggle" />
 </p>
 
-</td>
-</tr>
-</table>
+<br/>
+
+<!-- ================= DATABASES ================= -->
+### 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/NeonDB-000?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
+</p>
+
+<br/>
+
+<!-- ================= CLOUD & TOOLS ================= -->
+### ☁️ Cloud & Tools  
+<p>
+  <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/Appwrite-000?style=flat&logo=appwrite" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Render-000?style=flat&logo=render" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-000?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/VSCode-000?style=flat&logo=visualstudiocode" />
+</p>
+
+<br/><br/>
 
 </div>
-
 </details>
-
----
-
-<details><summary>🌍 <b>Deep Dive into Code, Cloud & Data</b></summary>
-<br>
-
->  ⚙️ Full-Stack Web Development (React · Node.js · Express · MongoDB)
-
-> ☁️ Cloud Computing & Deployment Pipelines (AWS · Render · Docker · CI/CD)
-
-> 📊 Data Science & Machine Learning (Python · Pandas · Scikit-Learn · TensorFlow)
-
-> 🏗️ System Design & Scalable Architectures
-<!--
-> 🧠 AI-Powered Assistants & Automation with LLMs
-> 🧩 GraphQL APIs & Microservices for smarter integrations
-> 💡 Contributing to Open-Source and building impactful projects
--->
-</details>
-
----
 
 <details> <summary>✨ <b>Let’s Create Something Extraordinary Together</b></summary> <br> <p align="center"> 💡 I’m always open to connecting with ambitious minds, creators, and developers who love to innovate. Let’s collaborate on ideas, share experiences, and build something that truly makes a difference 🌍 </p>
 <p align="center"> <a href="https://linkedin.com/in/dpk45deepak"> <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://x.com/dpk45deepak"> <img src="https://img.shields.io/badge/🐦_Chat_on_X_(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:dpk45deepak@gmail.com"> <img src="https://img.shields.io/badge/📧_Say_Hi_via_Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
