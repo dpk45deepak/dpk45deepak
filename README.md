@@ -17,7 +17,7 @@
        transition: all 0.3s ease;
      "
   >
-     Deepak Kumar <span style="font-size: 2.2rem;">( dpk45deepak ) 🍃</span>
+     Deepak Kumar 🍃
   </a>
 </h1>
 
@@ -58,11 +58,10 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 <summary>⚙️ <b>Tech Stack</b></summary>
 <br>
 
-<div align="center">
-<br/><br/>
+<div align="left">
 
 <!-- ================= DEVELOPMENT ================= -->
-### 💻 Full-Stack Development  
+#### Full-Stack Development  
 <p>
   <img src="https://img.shields.io/badge/JS-000?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/TS-000?style=flat&logo=typescript" />
@@ -77,10 +76,8 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   <img src="https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify" />
 </p>
 
-<br/>
-
 <!-- ================= AI / ML ================= -->
-### 🤖 Data Science & AI  
+#### Data Science & AI  
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql" />
@@ -94,10 +91,8 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   <img src="https://img.shields.io/badge/Kaggle-000?style=flat&logo=kaggle" />
 </p>
 
-<br/>
-
 <!-- ================= DATABASES ================= -->
-### 🗄️ Databases  
+#### Databases  
 <p>
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
@@ -105,10 +100,8 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
 </p>
 
-<br/>
-
 <!-- ================= CLOUD & TOOLS ================= -->
-### ☁️ Cloud & Tools  
+#### ☁️ Cloud & Tools  
 <p>
   <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
   <img src="https://img.shields.io/badge/Appwrite-000?style=flat&logo=appwrite" />
@@ -119,10 +112,10 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   <img src="https://img.shields.io/badge/VSCode-000?style=flat&logo=visualstudiocode" />
 </p>
 
-<br/><br/>
-
 </div>
+
 </details>
+
 
 <details> <summary>✨ <b>Let’s Create Something Extraordinary Together</b></summary> <br> <p align="center"> 💡 I’m always open to connecting with ambitious minds, creators, and developers who love to innovate. Let’s collaborate on ideas, share experiences, and build something that truly makes a difference 🌍 </p>
 <p align="center"> <a href="https://linkedin.com/in/dpk45deepak"> <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://x.com/dpk45deepak"> <img src="https://img.shields.io/badge/🐦_Chat_on_X_(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:dpk45deepak@gmail.com"> <img src="https://img.shields.io/badge/📧_Say_Hi_via_Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
