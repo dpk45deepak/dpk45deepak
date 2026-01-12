@@ -22,9 +22,10 @@
 </h1>
 
 <p align="left">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FFFF&center=false&vCenter=true&width=700&lines=Full+Stack+Developer🍃;Exploring+Data+Science🍃;Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" 
-  />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=1DA1F2&center=false&vCenter=true&width=700&lines=Full+Stack+Developer🍃;Exploring+Data+Science🍃;Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" 
+/>
+
 </p>
 
 ### 🧭 Quick Overview
@@ -46,13 +47,13 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 `JavaScript` • `TypeScript` • `Python` • `Java`
 
 ---
-<details>
+<!-- <details>
 <summary>🏠 <b>Profile Snapshot</b></summary>
 <br>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=nord_dark" />
 </p>
-</details>
+</details> -->
 
 <details>
 <summary>⚙️ <b>Tech Stack</b></summary>
