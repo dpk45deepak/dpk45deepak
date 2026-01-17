@@ -55,10 +55,6 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 </p>
 </details> -->
 
-<p>
-  🎨 I work with modern technologies to build scalable, efficient, and user-friendly applications.  
-  Here’s a quick glance at my main skills: 💙
-</p>
 <details>
 <summary>⚙️ <b>Technical Knowledge</b></summary>
 <br>
@@ -121,30 +117,11 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 </p>
 
 </div>
-
 </details>
-<details>
-  <summary>✨ <b>Let's Create Together</b></summary>
-  <br>
-  <p align="center">
-    💡 I love connecting with curious minds and passionate developers.  
-    Let’s collaborate, innovate, and build something meaningful 🌍
-  </p>
-  <p align="center">
-    <a href="https://linkedin.com/in/dpk45deepak" style="margin:0 5px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <span></span>
-    <a href="https://x.com/dpk45deepak" style="margin:0 5px;">
-      <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
-    </a>
-    <span></span>
-    <a href="mailto:dpk45deepak@gmail.com" style="margin:0 5px;">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-</details>
-
+<p>
+  🎨 I work with modern technologies to build scalable, efficient, and user-friendly applications.  
+  Here’s a quick glance at my main skills: 💙
+</p>
 
 ---
 
