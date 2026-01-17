@@ -55,8 +55,12 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 </p>
 </details> -->
 
+<p>
+  🎨 I work with modern technologies to build scalable, efficient, and user-friendly applications.  
+  Here’s a quick glance at my main skills: 💙
+</p>
 <details>
-<summary>⚙️ <b>Tech Stack</b></summary>
+<summary>⚙️ <b>Technical Knowledge</b></summary>
 <br>
 
 <div align="left">
@@ -64,18 +68,21 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 <!-- ================= DEVELOPMENT ================= -->
 #### Full-Stack Development  
 <p>
-  <img src="https://img.shields.io/badge/JS-000?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/TS-000?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/JS-000?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/React-000?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/React_Native-000?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Expo-000?style=flat&logo=expo" />
+  <img src="https://img.shields.io/badge/NativeWind-000?style=flat&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
   <img src="https://img.shields.io/badge/Node-000?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql" />
-  <img src="https://img.shields.io/badge/Fastify-000?style=flat&logo=fastify" />
 </p>
+
 
 <!-- ================= AI / ML ================= -->
 #### Data Science & AI  
@@ -93,39 +100,51 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 </p>
 
 <!-- ================= DATABASES ================= -->
-#### Databases  
+#### Databases & BAAS
 <p>
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/NeonDB-000?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/Appwrite-000?style=flat&logo=appwrite" />
+  <img src="https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase" />
 </p>
 
 <!-- ================= CLOUD & TOOLS ================= -->
 #### ☁️ Cloud & Tools  
 <p>
-  <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/Appwrite-000?style=flat&logo=appwrite" />
+  <img src="https://img.shields.io/badge/Netlify-000?style=flat&logo=netlify" />
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/Render-000?style=flat&logo=render" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
   <img src="https://img.shields.io/badge/Postman-000?style=flat&logo=postman" />
-  <img src="https://img.shields.io/badge/VSCode-000?style=flat&logo=visualstudiocode" />
 </p>
 
 </div>
 
 </details>
-
-
-<details> <summary>✨ <b>Let’s Create Something Extraordinary Together</b></summary> <br> <p align="center"> 💡 I’m always open to connecting with ambitious minds, creators, and developers who love to innovate. Let’s collaborate on ideas, share experiences, and build something that truly makes a difference 🌍 </p>
-<p align="center"> <a href="https://linkedin.com/in/dpk45deepak"> <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://x.com/dpk45deepak"> <img src="https://img.shields.io/badge/🐦_Chat_on_X_(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:dpk45deepak@gmail.com"> <img src="https://img.shields.io/badge/📧_Say_Hi_via_Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<div align="center">
-🌌 Keep coding. Keep dreaming. Keep pushing boundaries —
-the best creations are yet to come. 💻💙
-</div>
-
+<details>
+  <summary>✨ <b>Let's Create Together</b></summary>
+  <br>
+  <p align="center">
+    💡 I love connecting with curious minds and passionate developers.  
+    Let’s collaborate, innovate, and build something meaningful 🌍
+  </p>
+  <p align="center">
+    <a href="https://linkedin.com/in/dpk45deepak" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <span></span>
+    <a href="https://x.com/dpk45deepak" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>
+    <span></span>
+    <a href="mailto:dpk45deepak@gmail.com" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
 </details>
+
 
 ---
 
