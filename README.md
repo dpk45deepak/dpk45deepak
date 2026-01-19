@@ -55,9 +55,9 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 </p>
 </details> -->
 
-<details>
-<summary>⚙️ <b>Technical Knowledge</b></summary>
-<br>
+<!-- <details> -->
+<!-- <summary>⚙️ <b>Technical Knowledge</b></summary> -->
+<!-- <br> -->
 
 <div align="left">
 
@@ -117,7 +117,7 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 </p>
 
 </div>
-</details>
+<!-- </details> -->
 <p>
   🎨 I work with modern technologies to build scalable, efficient, and user-friendly applications.  
   Here’s a quick glance at my main skills: 💙
