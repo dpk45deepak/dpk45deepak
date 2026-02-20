@@ -44,16 +44,10 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 <!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
 
 #### ✅ **Languages USED**
-`JavaScript` • `TypeScript` • `Python` • `Java`
+
+`TypeScript` • `Python` • `Java`
 
 ---
-<!-- <details>
-<summary>🏠 <b>Profile Snapshot</b></summary>
-<br>
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=nord_dark" />
-</p>
-</details> -->
 
 <!-- <details> -->
 <!-- <summary>⚙️ <b>Technical Knowledge</b></summary> -->
@@ -138,6 +132,16 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   🎨 I work with modern technologies to build scalable, efficient, and user-friendly applications.  
   Here’s a quick glance at my main skills: 💙
 </p>
+
+---
+
+<details>
+<summary>🏠 <b>Profile Snapshot</b></summary>
+<br>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=nord_dark" />
+</p>
+</details>
 
 ---
 
