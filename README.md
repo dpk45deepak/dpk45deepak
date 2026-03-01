@@ -72,22 +72,11 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   <img src="https://img.shields.io/badge/Node-000?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql" />
-</p>
-
-<!-- ================= ANDROID DEVELOPMENT ================= -->
-#### Mobile App Development (React Native + Expo)
-
-<p>
   <img src="https://img.shields.io/badge/React_Native-000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Expo-000?style=flat&logo=expo" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/NativeWind-000?style=flat&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Expo_Router-000?style=flat&logo=expo" />
-  <img src="https://img.shields.io/badge/EAS_Build-000?style=flat&logo=expo" />
-  <img src="https://img.shields.io/badge/Axios-000?style=flat&logo=axios" />
   <img src="https://img.shields.io/badge/AsyncStorage-000?style=flat&logo=react" />
 </p>
-
 
 <!-- ================= AI / ML ================= -->
 #### Data Science & AI  
