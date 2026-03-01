@@ -124,13 +124,13 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 
 ---
 
-<details>
+<!-- <details>
 <summary>🏠 <b>Profile Snapshot</b></summary>
 <br>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=nord_dark" />
 </p>
-</details>
+</details> -->
 
 ---
 
