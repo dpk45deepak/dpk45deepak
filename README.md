@@ -130,9 +130,10 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=nord_dark" />
 </p>
-</details> -->
+</details>
 
 ---
+ -->
 
 <h4 align="center">💙✨ "Turning data into decisions — and dreams into reality." ✨💙</h4>
 
