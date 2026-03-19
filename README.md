@@ -23,41 +23,40 @@
 
 <p align="left">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=1DA1F2&center=false&vCenter=true&width=700&lines=Full+Stack+Developer🍃;Exploring+Data+Science🍃;Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=1DA1F2&center=false&vCenter=true&width=700&lines=Developer+and+Data+Enthusiast;+Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" 
 />
-
 </p>
 
 ### 🧭 Quick Overview
-> **Full Stack Developer | Exploring Data Science | Open Source Enthusiast**
+> **Software Engineer | Open Source Enthusiast**
 
-I’m **Deepak Kumar**, a developer passionate about designing **intelligent, scalable, and user-focused systems**.  
-Currently pursuing **B.Tech in Computer Science**, I love solving complex problems and contributing to impactful projects.
+Hey, I’m **Deepak Kumar**, 
+An engineer who doesn’t just write code, but loves to **design intelligent, scalable, and user-focused systems** that actually solve real-world problems.
 
-🛡️ Building with:
->- **Node.js**, **Express**, **React**, **MongoDB**, **Next.js**,
->- Frequently used BAAS **Firebase**,**Supabase**, and **Appwrite**
->- Learning **Machine Learning + System Design + Scalable Architectures**
->- 🧠 *Lifelong Learner | Open to Contribute | Clean Coder*
+Currently pursuing a **B.Tech in Computer Science**, I’m deeply driven by curiosity — *how things work, how they scale, and how they can be improved*.  
+I enjoy breaking down complex problems and turning them into **clean, efficient, and impactful solutions**.
+
+
+#### 🛡️ Engineering Arsenal:
+> Crafting systems with precision, scalability, and intelligence
+>- ⚙️ Development Stack: **MERN**, **Next.js**,
+>- 📊 Turning data into actionable insights and intelligent systems
+>-  **System Design:** Scalable architectures, clean and modular design  
+>-  *Lifelong Learner | Open to Contribute | Clean Coder*
 
 
 <!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
+---
 
-#### ✅ **Languages USED**
+#### ✅ **Frequent Languages**
 
 `TypeScript` • `Python` • `Java`
 
 ---
 
-<!-- <details> -->
-<!-- <summary>⚙️ <b>Technical Knowledge</b></summary> -->
-<!-- <br> -->
-
 <div align="left">
 
-<!-- ================= DEVELOPMENT ================= -->
-
-#### Full-Stack Development  
+#### Development Tools  
 <p>
   <img src="https://img.shields.io/badge/TS-000?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5" />
@@ -65,21 +64,14 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   <img src="https://img.shields.io/badge/JS-000?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Tailwind-000?style=flat&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/React-000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/React_Native-000?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Expo-000?style=flat&logo=expo" />
-  <img src="https://img.shields.io/badge/NativeWind-000?style=flat&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
   <img src="https://img.shields.io/badge/Node-000?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express" />
   <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql" />
-  <img src="https://img.shields.io/badge/React_Native-000?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/NativeWind-000?style=flat&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Expo_Router-000?style=flat&logo=expo" />
-  <img src="https://img.shields.io/badge/AsyncStorage-000?style=flat&logo=react" />
 </p>
 
-<!-- ================= AI / ML ================= -->
-#### Data Science & AI  
+#### Data Science & AI Tools
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql" />
@@ -87,36 +79,23 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
   <img src="https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-000?style=flat&logo=plotly" />
   <img src="https://img.shields.io/badge/Seaborn-000?style=flat&logo=seaborn" />
-  <img src="https://img.shields.io/badge/Sklearn-000?style=flat&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000?style=flat&logo=scikitlearn" />
   <img src="https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow" />
   <img src="https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter" />
   <img src="https://img.shields.io/badge/Kaggle-000?style=flat&logo=kaggle" />
 </p>
 
-<!-- ================= DATABASES ================= -->
-#### Databases & BAAS
+#### Databases and Tools
 <p>
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/Appwrite-000?style=flat&logo=appwrite" />
-  <img src="https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase" />
-</p>
-
-<!-- ================= CLOUD & TOOLS ================= -->
-#### ☁️ Cloud & Tools  
-<p>
   <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/Netlify-000?style=flat&logo=netlify" />
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel" />
-  <img src="https://img.shields.io/badge/Render-000?style=flat&logo=render" />
-  <img src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/Postman-000?style=flat&logo=postman" />
-  
 </p>
 
 </div>
-<!-- </details> -->
+
 <p>
   🎨 I work with modern technologies to build scalable, efficient, and user-friendly applications.  
   Here’s a quick glance at my main skills: 💙
@@ -124,18 +103,8 @@ Currently pursuing **B.Tech in Computer Science**, I love solving complex proble
 
 ---
 
-<!-- <details>
-<summary>🏠 <b>Profile Snapshot</b></summary>
-<br>
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpk45deepak&theme=nord_dark" />
-</p>
-</details>
-
----
- -->
-
 <h4 align="center">💙✨ "Turning data into decisions — and dreams into reality." ✨💙</h4>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dpk45deepak&style=flat-square&color=1DA1F2" alt="profile views"/>
