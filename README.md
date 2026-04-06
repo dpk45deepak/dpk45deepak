@@ -23,7 +23,7 @@
 
 <p align="left">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FF9F&center=false&vCenter=true&width=900&lines=Engineer+focused+on+intelligent+%2C+scalable+%26+user-centric+systems;Turning+complex+problems+into+clean+%26+impactful+solutions;Driven+by+curiosity+to+learn+%26+build+better+systems" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=3A86FF&center=false&vCenter=true&width=900&lines=Engineer+focused+on+intelligent+%2C+scalable+%26+user-centric+systems;Turning+complex+problems+into+clean+%26+impactful+solutions;Driven+by+curiosity+to+learn+%26+build+better+systems" 
 />
 </p>
 
