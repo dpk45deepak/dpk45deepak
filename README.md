@@ -23,26 +23,26 @@
 
 <p align="left">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=1DA1F2&center=false&vCenter=true&width=700&lines=Developer+and+Data+Enthusiast;+Building+Scalable+%26+Clean+Systems;Lifelong+Learner+🍃" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FF9F&center=false&vCenter=true&width=900&lines=Engineer+focused+on+intelligent+%2C+scalable+%26+user-centric+systems;Turning+complex+problems+into+clean+%26+impactful+solutions;Driven+by+curiosity+to+learn+%26+build+better+systems" 
 />
 </p>
 
-### 🧭 Quick Overview
-> **Software Engineer | Open Source Enthusiast**
+### 🎨 Quick Overview
+> **Full-Stack Developer building AI-powered Applications**
 
-Hey, I’m **Deepak Kumar**, 
-An engineer who doesn’t just write code, but loves to **design intelligent, scalable, and user-focused systems** that actually solve real-world problems.
+Hey, I’m [**Deepak Kumar**, ](https://dpk45deepak.vercel.app)
 
-Currently pursuing a **B.Tech in Computer Science**, I’m deeply driven by curiosity — *how things work, how they scale, and how they can be improved*.  
-I enjoy breaking down complex problems and turning them into **clean, efficient, and impactful solutions**.
+An engineer who goes beyond just writing code — focused on designing intelligent, scalable, and user-centric systems that solve real-world problems.
 
+Currently pursuing a B.Tech in Computer Science, driven by curiosity to understand how systems work, scale, and evolve.
+Passionate about breaking down complex challenges into clean, efficient, and impactful solutions.
 
 #### 🛡️ Engineering Arsenal:
 > Crafting systems with precision, scalability, and intelligence
->- ⚙️ Development Stack: **MERN**, **Next.js**,
->- 📊 Turning data into actionable insights and intelligent systems
->-  **System Design:** Scalable architectures, clean and modular design  
->-  *Lifelong Learner | Open to Contribute | Clean Coder*
+>- Development Stack: **MERN**, **Next.js**,
+>- Turning data into actionable insights and intelligent systems
+>- **System Design:** Scalable architectures, clean and modular design  
+>- *Lifelong Learner | Open to Contribute | Clean Coder*
 
 
 <!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
@@ -50,7 +50,7 @@ I enjoy breaking down complex problems and turning them into **clean, efficient,
 
 #### ✅ **Frequent Languages**
 
-`TypeScript` • `Python` • `Java`
+`TypeScript` • `Python`
 
 ---
 
