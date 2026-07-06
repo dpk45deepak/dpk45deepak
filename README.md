@@ -21,32 +21,29 @@
   </a>
 </h1>
 
-<p align="left">
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=3A86FF&center=false&vCenter=true&width=900&lines=Engineer+focused+on+intelligent+%2C+scalable+%26+user-centric+systems;Turning+complex+problems+into+clean+%26+impactful+solutions;Driven+by+curiosity+to+learn+%26+build+better+systems" 
-/>
-</p>
-
 ### 🎨 Quick Overview
 > **Full-Stack Developer building AI-powered Applications**
 
-Hey, I’m [**Deepak Kumar**, ](https://dpk45deepak.vercel.app)
+Hey, I'm [**Deepak Kumar**](https://dpk45deepak.vercel.app) 🍃
 
-An engineer who goes beyond just writing code — focused on designing intelligent, scalable, and user-centric systems that solve real-world problems.
+I'm passionate about building software that is not only functional but scalable, intelligent, and delightful to use.
 
-Currently pursuing a B.Tech in Computer Science, driven by curiosity to understand how systems work, scale, and evolve.
-Passionate about breaking down complex challenges into clean, efficient, and impactful solutions.
+My interests span across **Full-Stack Development, AI Agents**. I enjoy understanding how modern software is designed, deployed, optimized, and scaled—from frontend experiences to distributed backend systems.
+
+Currently focused on mastering production-grade software engineering while building real-world projects that combine modern web technologies with AI.
 
 #### 🛡️ Engineering Arsenal:
-> Crafting systems with precision, scalability, and intelligence
->- Development Stack: **MERN**, **Next.js**,
->- Turning data into actionable insights and intelligent systems
->- **System Design:** Scalable architectures, clean and modular design  
->- *Lifelong Learner | Open to Contribute | Clean Coder*
+>- Full Stack Development using ***TypeScript, MERN Stack, Next.js***
+>- Building AI & Machine Learning applications with **Python, TensorFlow & Scikit-Learn**
+>- Exploring Analytics and Predictive Modeling
+>- Learning Cloud Technologies, Containers & Deployment
+>- Continuous Learner • Clean Code
 
 
 <!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
 ---
+
+
 
 #### ✅ **Frequent Languages**
 
@@ -89,6 +86,7 @@ Passionate about breaking down complex challenges into clean, efficient, and imp
 <p>
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase" />
   <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/Netlify-000?style=flat&logo=netlify" />
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel" />
