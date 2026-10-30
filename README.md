@@ -1,54 +1,26 @@
-<!-- 🌟 Profile README for Deepak Kumar -->
-<h1 align="left" style="
-  font-family: 'Poppins', sans-serif; 
-  font-size: 3rem; 
-  font-weight: 700;
-  background: linear-gradient(90deg, #ff007a, #7f00ff, #00d4ff);
-  -webkit-background-clip: text;
-  color: transparent;
-  margin-bottom: 10px;
-">
-  Hey ! I'm 
-  <a href="https://dpk45deepak.vercel.app" target="_blank"
-     style="
-       color: #ff007a; 
-       font-weight: 700; 
-       text-decoration: none;
-       transition: all 0.3s ease;
-     "
-  >
-     Deepak Kumar 🍃
-  </a>
-</h1>
-
 ### 🎨 Quick Overview
-> **Full-Stack Developer building AI-powered Applications**
+> **Full-Stack Developer | AI Engineer | Data Science Enthusiast**
 
 Hey, I'm [**Deepak Kumar**](https://dpk45deepak.vercel.app) 🍃
 
 I'm passionate about building software that is not only functional but scalable, intelligent, and delightful to use.
 
-My interests span across **Full-Stack Development, AI Agents**. I enjoy understanding how modern software is designed, deployed, optimized, and scaled—from frontend experiences to distributed backend systems.
+My interests span across **Full-Stack Development, AI Engineering, Machine Learning, and Cloud Computing**. I enjoy understanding how modern software is designed, deployed, optimized, and scaled—from frontend experiences to distributed backend systems and intelligent AI applications.
 
-Currently focused on mastering production-grade software engineering while building real-world projects that combine modern web technologies with AI.
+Currently focused on mastering production-grade software engineering, AI-powered systems, LLM applications, and scalable backend architectures while building real-world projects.
 
 #### 🛡️ Engineering Arsenal:
->- Full Stack Development using ***TypeScript, MERN Stack, Next.js***
->- Building AI & Machine Learning applications with **Python, TensorFlow & Scikit-Learn**
->- Exploring Analytics and Predictive Modeling
->- Learning Cloud Technologies, Containers & Deployment
->- Continuous Learner • Clean Code
-
+>- Full Stack Development using ***TypeScript, MERN Stack, Next.js, NestJS***
+>- Backend Engineering using **Node.js, Express.js, NestJS, Python & FastAPI**
+>- Building AI & LLM applications using **LangChain, LangGraph, LangSmith & Hugging Face**
+>- Machine Learning & Deep Learning using **Python, TensorFlow, Scikit-Learn & Neural Network Architectures**
+>- Working with **Vector Databases, RAG Pipelines, Embeddings & Semantic Search**
+>- Data Science, Analytics, Predictive Modeling & Advanced Neural Networks
+>- Exploring Cloud Technologies, Docker, AWS & Production Deployment
+>- Web Scraping, Data Extraction & Intelligent Crawling
+>- Continuous Learner • System Design • Clean Code
 
 <!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
----
-
-
-
-#### ✅ **Frequent Languages**
-
-`TypeScript` • `Python`
-
 ---
 
 <div align="left">
@@ -65,6 +37,8 @@ Currently focused on mastering production-grade software engineering while build
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
   <img src="https://img.shields.io/badge/Node-000?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/NestJS-000?style=flat&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/FastAPI-000?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=graphql" />
 </p>
 
@@ -80,6 +54,11 @@ Currently focused on mastering production-grade software engineering while build
   <img src="https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow" />
   <img src="https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter" />
   <img src="https://img.shields.io/badge/Kaggle-000?style=flat&logo=kaggle" />
+  <img src="https://img.shields.io/badge/LangChain-000?style=flat&logo=langchain" />
+  <img src="https://img.shields.io/badge/LangGraph-000?style=flat&logo=langgraph" />
+  <img src="https://img.shields.io/badge/HuggingFace-000?style=flat&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Gemini-000?style=flat&logo=googlegemini" />
+  <img src="https://img.shields.io/badge/Groq-000?style=flat&logo=groq" />
 </p>
 
 #### Databases and Tools
@@ -87,21 +66,39 @@ Currently focused on mastering production-grade software engineering while build
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase" />
+  <img src="https://img.shields.io/badge/Prisma-000?style=flat&logo=prisma" />
+  <img src="https://img.shields.io/badge/Neon-000?style=flat&logo=neon" />
+  <img src="https://img.shields.io/badge/Qdrant-000?style=flat&logo=qdrant" />
+  <img src="https://img.shields.io/badge/Appwrite-000?style=flat&logo=appwrite" />
   <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Netlify-000?style=flat&logo=netlify" />
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel" />
+  <img src="https://img.shields.io/badge/Git-000?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
+</p>
+
+#### AI Engineering & Data Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/RAG-000?style=flat" />
+  <img src="https://img.shields.io/badge/Vector%20Search-000?style=flat" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-000?style=flat" />
+  <img src="https://img.shields.io/badge/Embeddings-000?style=flat" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-000?style=flat" />
+  <img src="https://img.shields.io/badge/Crawl4AI-000?style=flat" />
+  <img src="https://img.shields.io/badge/AI%20Agents-000?style=flat" />
 </p>
 
 </div>
 
 <p>
-  🎨 I work with modern technologies to build scalable, efficient, and user-friendly applications.  
-  Here’s a quick glance at my main skills: 💙
+  🎨 I work with modern technologies to build scalable, efficient, and intelligent applications.  
+  Here's a quick glance at my evolving engineering journey: 💙
 </p>
 
 ---
 
-<h4 align="center">💙✨ "Turning data into decisions — and dreams into reality." ✨💙</h4>
+<h4 align="center">💙✨ "Turning data into decisions — and intelligence into reality." ✨💙</h4>
 
 
 <p align="center">
