@@ -15,10 +15,7 @@ Currently focused on mastering production-grade software engineering, AI-powered
 >- Building AI & LLM applications using **LangChain, LangGraph, LangSmith & Hugging Face**
 >- Machine Learning & Deep Learning using **Python, TensorFlow, Scikit-Learn & Neural Network Architectures**
 >- Working with **Vector Databases, RAG Pipelines, Embeddings & Semantic Search**
->- Data Science, Analytics, Predictive Modeling & Advanced Neural Networks
 >- Exploring Cloud Technologies, Docker, AWS & Production Deployment
->- Web Scraping, Data Extraction & Intelligent Crawling
->- Continuous Learner • System Design • Clean Code
 
 <!-- ⚙️ Enhanced Two-Box Tech Stack Section: Development + Data Science -->
 ---
